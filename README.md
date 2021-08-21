@@ -5,7 +5,8 @@ A Vaccine Finder using python and the CoWIN API. I am not ready to share to code
 When it finds a vaccine, it shows this with a sound :-
 
 
-<img width="163" alt="vaccine" src="https://user-images.githubusercontent.com/69293452/130312084-48e81b8b-6c28-4d51-b657-034857d1af39.png">
+<img width="163" alt="vaccine" src="https://user-images.githubusercontent.com/69293452/130312128-115228e0-b748-4dc1-acc6-277d932df2d4.png">
+
 
 When it cannot find a vaccine for you it shows this :-
 
